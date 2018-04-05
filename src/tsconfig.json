@@ -20,7 +20,8 @@
         }
     },
     "include": [
-        "angular/*"
+        "angular/*",
+        "*.ts"
     ],
     "exclude": [
         "node_modules",

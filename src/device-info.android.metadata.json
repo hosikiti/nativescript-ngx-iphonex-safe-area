@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{"getDeviceName":{"__symbolic":"function"},"getModel":{"__symbolic":"function","parameters":[],"value":{"__symbolic":"error","message":"Reference to a local symbol","line":1,"character":14,"context":{"name":"android"}}},"getScreenOrientation":{"__symbolic":"function"}}}]
